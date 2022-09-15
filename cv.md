@@ -1,3 +1,5 @@
+![Iurii Pototskii](img/myFace.jpg)
+
 ---
 
 # Iurii Pototskii
